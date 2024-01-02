@@ -1,0 +1,16 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+h1 {
+    font-size: 26px;
+    font-weight: 750;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: 350;
+}
